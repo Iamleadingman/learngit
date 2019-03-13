@@ -1,2 +1,0 @@
-
-print("enter a number")
